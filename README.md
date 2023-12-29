@@ -5,12 +5,13 @@ Opensource 60% by Thebloodyezkb
 ## Introduction:
 I started this project as a test into the journy of EC case design with the idea of open source it using something new for topre keyboards.
 
-to use this keyboard for fabricatin with the manufactors you will need to provide the following:
+to use this keyboard for fabricatin with the manufactors you will need to provide the following.
+## Fabrication Materials:
 1. 60OEC Pc Top V1.step
 2. 60OEC Top Case V1.pdf
 3. 60OEC Bottom Case V1.pdf
 
-Case materials per parts as following:
+## Case materials per parts as following:
 1. Top case outer case (Aluminum 6063 sandblasted).
 2. Top case inner case pc (PC sandblasted ask for thread support as its not been fully tested).
 3. Plate (you could use FR4, steel and aluminum EC).
