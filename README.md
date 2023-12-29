@@ -18,6 +18,6 @@ Case materials per parts as following:
 5. Through weight (Brass, Coppe, Etc.. sanblasted).
 
 ## Screenshots
-[My Image](pic/Capture1.PNG)
+![Capture1](pic/Capture1.PNG)
 ## Reference of EC60 by Cipulot:
 EC60 by Cipulot: https://github.com/Cipulot/EC60
