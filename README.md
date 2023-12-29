@@ -12,7 +12,7 @@ to use this keyboard for fabricatin with the manufactors you will need to provid
 
 Case materials per parts as following:
 1. Top case outer case (Aluminum 6063 sandblasted).
-2. Top case inner case pc (PC sandblasted).
+2. Top case inner case pc (PC sandblasted ask for thread support as its not been fully tested).
 3. Plate (you could use FR4, steel and aluminum EC).
 4. Bottom case (Aluminum 6063 sandblasted).
 5. Through weight (Brass, Coppe, Etc.. sanblasted).
