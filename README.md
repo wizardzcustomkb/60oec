@@ -16,6 +16,7 @@ Case materials per parts as following:
 3. Plate (you could use FR4, steel and aluminum EC).
 4. Bottom case (Aluminum 6063 sandblasted).
 5. Through weight (Brass, Coppe, Etc.. sanblasted).
+6. The feets uses universal 8mm rubber feet.
 
 ## Screenshots
 ![Capture1](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture1.PNG)
