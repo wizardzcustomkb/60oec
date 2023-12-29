@@ -19,5 +19,17 @@ Case materials per parts as following:
 
 ## Screenshots
 ![Capture1](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture1.PNG)
+![Capture2](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture2.PNG)
+![Capture3](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture3.PNG)
+![Capture4](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture4.PNG)
+![Capture5](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture5.PNG)
+![Capture6](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture6.PNG)
+![Capture7](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture7.PNG)
+![Capture8](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture8.PNG)
+![Capture9](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture9.PNG)
+![Capture10](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture10.PNG)
+![Capture11](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture11.PNG)
+![Capture12](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture12.PNG)
+
 ## Reference of EC60 by Cipulot:
 EC60 by Cipulot: https://github.com/Cipulot/EC60
