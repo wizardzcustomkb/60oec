@@ -10,7 +10,7 @@ The inner case screws to top alumium case then the plate then screws to inner PC
 I am still working on this project and I will keep maintain it if there is any changes. 
 I have few things to cover that I will list them below.
 
-to use this keyboard for fabricatin with the manufactors you will need to provide the following.
+to use this keyboard for fabrication with the manufactors you will need to provide the following.
 
 ## To do list:
 1. Add mx plate to the repo (DXF & Step files).
