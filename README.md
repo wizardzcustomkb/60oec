@@ -3,7 +3,7 @@
 Opensource 60% by Thebloodyezkb
 
 ## Introduction:
-I started this project as a test into the journy of EC case design with the idea of open source it using something new for topre keyboards.
+I started this project as a test into the journy of EC case design with the idea of open source it using something new for topre keyboards here is top mount 60% 60OEC.
 
 to use this keyboard for fabricatin with the manufactors you will need to provide the following.
 ## Fabrication Materials:
