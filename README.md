@@ -3,7 +3,7 @@
 Opensource 60% by Thebloodyezkb
 
 ## Introduction:
-I started this project as a test into the journy of EC case design with the idea of open source it using something new for topre keyboards here is top mount 60% 60OEC.
+I started this project as an entery into the journy of EC case design with an idea of open source it later. The topre keyboards is a top mount 60% named 60OEC (Yea the naming game...).
 The idea was to make a topre keyboard with PC case but due to pc surface I dicided to add something like a cover from sirfaace scratches and UV light. The topcase contain 2 part outer aluminum cover and inner pc.
 The inner case screws to top alumium case then the plate then screws to inner PC case. the inner PC case should have metal thread holes to help the plate thread screws from damage.
 
