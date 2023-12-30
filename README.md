@@ -14,6 +14,7 @@ to use this keyboard for fabrication with the manufactors you will need to provi
 
 ## To do list:
 1. Add mx plate to the repo (DXF & Step files).
+2. Add WKL & HHKB (7U/6U) outer & inner top case.
 
 ## Rectangle Info
 ### Case:
