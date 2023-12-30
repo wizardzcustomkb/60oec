@@ -15,6 +15,28 @@ to use this keyboard for fabrication with the manufactors you will need to provi
 ## To do list:
 1. Add mx plate to the repo (DXF & Step files).
 
+## Rectangle Info
+### Case:
+- layout: 7 degree 60%
+- W: 296.95 mm * L: 115.6mm .
+- Front H: 17.48 mm, Back H: 31.67 mm.
+- Mount: Top mount.
+- Weight: Brass through.
+- Plate to top case: 7.8 mm.
+- Side alignment.
+
+### Compatible PCBs:
+- MX Hiney 60 PCB.
+- EC60 by Cipulot (Check reference link at "References" section).
+- UDB.
+
+### Parts:
+- Top outer aluminum case.
+- Top inner PC case.
+- Bottom aluminum case.
+- Through weight.
+- Plate 1.2 mm (of choice).
+
 ## Fabrication Materials:
 1. 60OEC Pc Top V1.step
 2. 60OEC Top Case V1.pdf
@@ -42,5 +64,5 @@ to use this keyboard for fabrication with the manufactors you will need to provi
 ![Capture11](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture11.PNG)
 ![Capture12](https://github.com/wizardzcustomkb/60oec/blob/main/Pic/Capture12.PNG)
 
-## Reference of EC60 by Cipulot:
+## References:
 EC60 by Cipulot: https://github.com/Cipulot/EC60
