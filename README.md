@@ -49,7 +49,7 @@ to use this keyboard for fabrication with the manufactors you will need to provi
 2. Top case inner case pc (PC sandblasted ask for thread support as its not been fully tested).
 3. Plate (you could use FR4, steel and aluminum EC).
 4. Bottom case (Aluminum 6063 sandblasted).
-5. Through weight (Brass, Coppe, Etc.. sanblasted).
+5. Through weight (Brass, Coppe, Stainless Steel, Etc.. sanblasted).
 6. The feets uses universal 8mm rubber feet.
 
 ## Screenshots
