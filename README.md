@@ -13,9 +13,9 @@ I have few things to cover that I will list them below.
 to use this keyboard for fabrication with the manufactors you will need to provide the following.
 
 ## To do list:
-1. Add mx plate to the repo (DXF & Step files).
+1. Add MX Plate to the repo (DXF & Step files).
 2. Add WKL & HHKB (7U/6U) outer & inner top case.
-3. Prototype the keyboard.
+3. Add an order guide for the keyboard.
 
 ## Rectangle Info
 ### Case:
@@ -30,7 +30,7 @@ to use this keyboard for fabrication with the manufactors you will need to provi
 ### Compatible PCBs:
 - MX Hiney 60 PCB.
 - EC60 by Cipulot (Check reference link at "References" section).
-- UDB.
+
 
 ### Parts:
 - Top outer aluminum case.
